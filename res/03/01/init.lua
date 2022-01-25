@@ -1,0 +1,9 @@
+appname="learn"
+appver="1.0.0"
+appcode="100"
+packagename="com.mlua.delearn"
+user_permission={
+  "INTERNET",
+  "WRITE_EXTERNAL_STORAGE",
+}
+theme="Theme_DeviceDefault_Light"
